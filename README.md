@@ -14,6 +14,16 @@
 
 ---
 
+## 🚀 Features
+
+- Responsive Design: Fully optimized for seamless viewing across all devices, from desktops to smartphones, ensuring a smooth user experience everywhere.
+
+- Interactive Projects: Explore a range of development projects that showcase my technical abilities and creativity. Dive into each project to understand the thought process, challenges, and solutions behind the work.
+
+- Skills & Resume: Access a detailed overview of my technical skills, programming languages, and frameworks. You can also download my up-to-date resume for a comprehensive view of my professional background.
+
+---
+
 ## 🔧 Tech Stack
 
 - React: For building dynamic and responsive user interfaces.
@@ -34,6 +44,15 @@
 
 ---
 
+## 📸 Portfolio Preview
+
+![Screenshot of Portfolio start page](./public/screenshot.png)
+
+---
+
+#### Published: Year 2025
+
+---
 
 
 
