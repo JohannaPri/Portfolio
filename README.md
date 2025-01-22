@@ -1,16 +1,21 @@
-# My Portfolio 🎨
+#   My Portfolio 🎨 💻
 
-**Welcome to my online portfolio! This is where I showcase my design work, development projects, and professional journey.**
+### Welcome to my online portfolio!
+I’m excited to share my creative and professional journey with you. Here, you’ll find a curated collection of my work, showcasing both my design skills and development expertise. 
+
+From visually engaging designs to dynamic web applications, each project reflects my passion for problem-solving and creativity. 
+
+Take a look around to explore my work, learn more about my skills, and get a glimpse of the thought process behind each project.
 
 ---
 
 ## 🌐 Live Demo
 
-**Experience my portfolio in action!**
+Experience my portfolio in action!
 
 **Click the link below to explore my design and development projects, as well as my resume.**
 
-"LÄNK"
+**https://portfolio-johannaprinz.vercel.app/** 
 
 ---
 
