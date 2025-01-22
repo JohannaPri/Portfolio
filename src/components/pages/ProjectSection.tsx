@@ -47,7 +47,7 @@ const ProjectsSection = () => {
   const images = [
     { 
       id: 1, 
-      src: "/src/assets/projects/adventure-planner.png", 
+      src: "/adventure-planner.png", 
       alt: "Image of Adventure Planner Start Page", 
       title: "Adventure Planner", 
       description: "An app for planning and managing your adventures efficiently.", 
@@ -56,7 +56,7 @@ const ProjectsSection = () => {
     },
     { 
       id: 2, 
-      src: "/src/assets/projects/af-group.png", 
+      src: "/af-group.png", 
       alt: "Image of JobbNavigator Start Page", 
       title: "JobNavigator", 
       description: "A job search tool that helps users find relevant job postings.", 
@@ -65,7 +65,7 @@ const ProjectsSection = () => {
     },
     { 
       id: 3, 
-      src: "/src/assets/projects/the-zoo.png", 
+      src: "/the-zoo.png", 
       alt: "Image of The Zoo Start Page", 
       title: "The Zoo", 
       description: "A fun and interactive zoo management simulation.", 
@@ -74,7 +74,7 @@ const ProjectsSection = () => {
     },
     { 
       id: 4, 
-      src: "/src/assets/projects/tic-tac-toe.png", 
+      src: "/tic-tac-toe.png", 
       alt: "Image of Tic Tac Toe Start Page", 
       title: "Tic Tac Toe", 
       description: "Classic Tic Tac Toe game built with Vue.", 
@@ -83,7 +83,7 @@ const ProjectsSection = () => {
     },
     { 
       id: 5, 
-      src: "/src/assets/projects/the-lemons-quiz.png", 
+      src: "/the-lemons-quiz.png", 
       alt: "Image of The Lemons Quiz Start Page", 
       title: "The Lemons Quiz", 
       description: "Test your music knowledge with this fun and engaging JavaScript Music Quiz!", 
@@ -92,7 +92,7 @@ const ProjectsSection = () => {
     },
     { 
       id: 6, 
-      src: "/src/assets/projects/isabella-surf.png", 
+      src: "isabella-surf.png", 
       alt: "Image of Isabella's Surf Club Start Page in Figma", 
       title: "Isabella's Surf Club", 
       description: "A Figma design prototype for a surf club website.", 
@@ -101,7 +101,7 @@ const ProjectsSection = () => {
     },
     { 
       id: 7, 
-      src: "/src/assets/projects/grace.png", 
+      src: "/grace.png", 
       alt: "Image of Studio Grace Start Page", 
       title: "Studio Grace", 
       description: "A mobile-first design for a boutique studio.", 
@@ -110,7 +110,7 @@ const ProjectsSection = () => {
     },
     { 
       id: 8, 
-      src: "/src/assets/projects/donut-webshop.png", 
+      src: "/donut-webshop.png", 
       alt: "Image of Donut Factory Start Page", 
       title: "Donut Factory", 
       description: "A playful e-commerce site for donut enthusiasts.", 
@@ -119,7 +119,7 @@ const ProjectsSection = () => {
     },
     { 
       id: 9, 
-      src: "/src/assets/projects/wwf-prototype.png", 
+      src: "/wwf-prototype.png", 
       alt: "Image of WWF prototype Wireframe Start Page", 
       title: "WWF Prototype", 
       description: "A Figma wireframe prototype for a WWF campaign.", 
@@ -128,7 +128,7 @@ const ProjectsSection = () => {
     },
     { 
       id: 10, 
-      src: "/src/assets/projects/svg-travel-animation.png", 
+      src: "/svg-travel-animation.png", 
       alt: "Image of svg animation", 
       title: "Travel Animation", 
       description: "A travel animation! Click 'Deploy' to see it in action.", 
