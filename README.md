@@ -18,7 +18,7 @@
 
 - Responsive Design: Fully optimized for seamless viewing across all devices, from desktops to smartphones, ensuring a smooth user experience everywhere.
 
-- Interactive Projects: Explore a range of development projects that showcase my technical abilities and creativity. Dive into each project to understand the thought process, challenges, and solutions behind the work.
+- Interactive Projects: Explore a range of development projects that showcase my technical abilities and creativity. Dive into each project to understand the thought process, challenges, and solutions behind the work. You can view the source code on GitHub or try the live version by visiting the deployed app to see it in action!
 
 - Skills & Resume: Access a detailed overview of my technical skills, programming languages, and frameworks. You can also download my up-to-date resume for a comprehensive view of my professional background.
 
