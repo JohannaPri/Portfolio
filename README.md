@@ -51,7 +51,9 @@ Experience my portfolio in action!
 
 ## 📸 Portfolio Preview
 
-![Screenshot of Portfolio start page](./public/screenshot.png)
+<!-- ![Screenshot of Portfolio start page](./public/screenshot.png) -->
+
+![Screenshot of Portfolio start page](./public/screenshots.png)
 
 ---
 
