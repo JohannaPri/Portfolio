@@ -58,7 +58,7 @@ body {
     
     .responsive-color-splash-right {
         position: absolute;
-        top: -15%;
+        top: -14.4%;
         left: 65%;
     }
 
@@ -77,7 +77,7 @@ body {
     
     .responsive-color-splash-right {
         top: -11.2%;
-        left: 71.5%;
+        left: 71.3%;
     }
     
     .hero-text-first {
@@ -142,7 +142,7 @@ body {
     }
     
     .responsive-color-splash-right {
-        top: -15%;
+        top: -14.3%;
         left: 81.5%;
     }
 
@@ -208,7 +208,7 @@ body {
     }
     
     .responsive-color-splash-right {
-        top: -15%;
+        top: -14.3%;
         left: 81.5%;
     }
 
@@ -275,8 +275,8 @@ body {
     }
     
     .responsive-color-splash-right {
-        top: -15%;
-        left: 83%;
+        top: -14.3%;
+        left: 81.7%;
     }
 
     .hero-text-first {
@@ -337,8 +337,8 @@ body {
     }
     
     .responsive-color-splash-right {
-        top: -15%;
-        left: 85%;
+        top: -14.3%;
+        left: 84.7%;
     }
 
     .hero-text-first {
@@ -399,7 +399,7 @@ body {
 @media (min-width: 601px) and (max-width: 640px) {
     .responsive-color-splash-left {
         top: -15%;
-        left: 61%;
+        left: 61.7%;
     }
     
     .responsive-color-splash-right {
@@ -471,7 +471,7 @@ body {
 @media (min-width: 481px) and (max-width: 600px) {
     .responsive-color-splash-left {
         top: -15%;
-        left: 61%;
+        left: 61.8%;
     }
     
     .responsive-color-splash-right {
