@@ -1,6 +1,6 @@
 export const HeroTexts = [
     {
-      firstText: "Frontend Development with a Passion for Graphic Design",
+      firstText: "Showcasing creativity through graphic design",
       bigText: "A Frontend Developer with a Passion for Graphic Design",
       secondText1: "Explore my work as a frontend ",
       secondText2: "developer, blending coding expertise",
@@ -8,9 +8,7 @@ export const HeroTexts = [
     },
   ];
   
-
-  
-  
+  //FRONTEND DEVELOPMENT WITH A PASSION FOR GRAPHIC DESIGN
   
   export const FooterTexts = {
     underLogoText: "Let us create your adventure of a lifetime.",
