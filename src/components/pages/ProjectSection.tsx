@@ -110,6 +110,15 @@ const ProjectsSection = () => {
     },
     { 
       id: 8, 
+      src: "/tough-cookie.png", 
+      alt: "Image of Tough Cookie Start Page", 
+      title: "Tough Cookie", 
+      description: "A playful mock client project crafted with SCSS and HTML", 
+      githubLink: "https://github.com/JohannaPri/assignment-2-customer-project-CSS", 
+      deployLink: "" 
+    },
+    { 
+      id: 9, 
       src: "/donut-webshop.png", 
       alt: "Image of Donut Factory Start Page", 
       title: "Donut Factory", 
@@ -118,7 +127,7 @@ const ProjectsSection = () => {
       deployLink: "https://medieinstitutet.github.io/fed23d-js-grundkurs-webshop-JohannaPri/" 
     },
     { 
-      id: 9, 
+      id: 10, 
       src: "/wwf-prototype.png", 
       alt: "Image of WWF prototype Wireframe Start Page", 
       title: "WWF Prototype", 
@@ -127,7 +136,7 @@ const ProjectsSection = () => {
       deployLink: "https://www.figma.com/proto/08cDJa5lX23ZBA1B061sKR/UX-Group-assignment?page-id=0%3A1&type=design&node-id=6-4&viewport=770%2C982%2C0.15&t=qhCQQt7FABDMi2gB-1&scaling=scale-down&starting-point-node-id=6%3A4&show-proto-sidebar=1&mode=design" 
     },
     { 
-      id: 10, 
+      id: 11, 
       src: "/svg-travel-animation.png", 
       alt: "Image of svg animation", 
       title: "Travel Animation", 
