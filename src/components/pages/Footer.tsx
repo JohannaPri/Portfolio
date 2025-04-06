@@ -52,7 +52,7 @@ const Footer = () => {
               Email:
             </p>
             <p className="text-sm md:text-base text-gray-800 leading-relaxed text-center ">
-              Johannaa.L@hotmail.com
+              Johannaprinz1993@gmail.com
             </p>
           </div>
         </div>
@@ -84,7 +84,7 @@ const Footer = () => {
             </a>
           </div>
           <div>
-            <p className="mb-2 text-sm">© 2025 Johanna Prinz. All rights reserved.</p>
+            <p className="mb-2 text-sm">© 2025 Johanna Prinz | All rights reserved.</p>
           </div>
       </section>
     </footer>
