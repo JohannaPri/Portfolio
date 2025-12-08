@@ -160,7 +160,7 @@ const NavBar: React.FC = () => {
             </li>
             <li>
               <a
-                href="/Johanna-Prinz-Resume-Right.pdf"
+                href="/Johanna-Prinz-Resume-Correct.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`w-[139px] h-[44px] whitespace-nowrap border-2 border-gray-950 before:top-0 py-2 px-8 relative z-10 before:content-[''] before:absolute before:left-0 before:w-full before:h-0 before:bg-cloudGray before:-z-10 hover:before:h-full before:transition-all before:duration-300 before:ease-in text-base ${
@@ -249,7 +249,7 @@ const NavBar: React.FC = () => {
               </li>
               <li>
               <a
-                href="/Johanna-Prinz-Resume-Right.pdf"
+                href="/Johanna-Prinz-Resume-Correct.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`w-[139px] h-[44px] whitespace-nowrap border-2 border-gray-950 before:top-0 py-2 px-8 relative z-10 before:content-[''] before:absolute before:left-0 before:w-full before:h-0 before:bg-cloudGray before:-z-10 hover:before:h-full before:transition-all before:duration-300 before:ease-in text-left ${
